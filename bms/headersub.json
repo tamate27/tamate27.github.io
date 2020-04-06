@@ -1,6 +1,10 @@
 {
   "name": "BMSメモ帳sub",
   "symbol": "Φ",
+  "data_url": "https://script.google.com/macros/s/AKfycbzPBG7-PsPeYl7JFRogrlVxQiJ7Mqv_xoP2k0uhZOyKrpH-cEg/exec",
+  "compat_prefix": "",
+  "entry_type": "",
+  "folder_sort_key": "",
   "level_order": [
     "5keys",
     "~☆10",
@@ -52,14 +56,5 @@
     "★24上位",
     "★★5下位",
     "★?"
-  ],
-  "folder_sort_key": "",
-  "folder_sort_ascending": true,
-  "entry_type": "",
-  "data_url": "https://script.google.com/macros/s/AKfycbzPBG7-PsPeYl7JFRogrlVxQiJ7Mqv_xoP2k0uhZOyKrpH-cEg/exec",
-  "compat_prefix": "",
-  "last_update": "2020\/01\/17",
-  "editor_name": "BeMusicSeeker",
-  "editor_version": "0.3.5.5",
-  "output_date": "2020\/01\/17"
+  ]
 }
